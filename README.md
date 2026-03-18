@@ -6,6 +6,7 @@ This could be switching browser, moving away from google services, removing sear
 ## All pages
 
 
-<hr>
+
+##
 
 <a href="https://mintcolon3.github.io"><img src="https://mintcolon3.github.io/88x31.gif"></a>
